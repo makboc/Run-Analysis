@@ -49,6 +49,7 @@ Additional variables:
 Data sets description:
 
 * data_set: This data set is received by applyin "rbind" on test and train data sets. Afterwards required variables were selected by appying "grep" function on column names.
+* data_of_averages: Received by applying "ddply" function with "mean" on data_set
 
 The complete list of variables of each feature vector is:
 
