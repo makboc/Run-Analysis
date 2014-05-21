@@ -1,9 +1,15 @@
 
+############################################
+# SET WORKING DIRECTORY FIRST - USER INPUT #
+############################################
+setwd("C:\Users\ ... your path ...")
+
+
+#Install and load required packages
 install.packages("plyr")
 library(plyr)
 
-setwd("C:\\Users\\Max\\Desktop\\Coursera\\Getting and Cleaning Data\\Project")
-
+# Download and unzip files
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(fileUrl, destfile = "./data.zip")
 
