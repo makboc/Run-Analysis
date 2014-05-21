@@ -10,11 +10,7 @@ Import of data sets proceed by following steps:
 
 1. Download "run_analysis.R" to your working directory
 2. Open "run_analysis.R" in R or RStudio
-3.  Set your proper working directory in function "setwd(...)"
-    For example:
-      setwd("C:\\Users\\ ... your path ...")
-    complete by
-      setwd("C:\\Users\\John\\my_working_directory")
+3. Set your proper working directory in function "setwd(...)"
 4. Select all code by pressing "Ctrl + a"
 5. Run all th code by pressing "Ctrl + r"
 
