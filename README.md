@@ -18,5 +18,4 @@ Import of data sets proceed by following steps:
 4. Select all code by pressing "Ctrl + a"
 5. Run all th code by pressing "Ctrl + r"
 
-For variables description see:
-1. CodeBook.md
+For variables description see: CodeBook.md
